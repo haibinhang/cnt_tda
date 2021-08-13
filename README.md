@@ -1,15 +1,8 @@
 # cnt_tda
 Topological data analysis of orientation alignment for SEM images of carbon nanotube fibers.
-<div class="row">
-  <div class="column">
-    <img src="SEM/40.PNG" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="SEM/canny.png" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="SEM/aligned.png" style="width:25%">
-  </div>
+<div>
+ <img src="SEM/canny.png" align="" style="width:10%" />
+ <img src="SEM/aligned.png" align="" style="width:10%" />
 </div>
 
 ## Reference
